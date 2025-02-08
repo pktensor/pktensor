@@ -52,18 +52,19 @@
 ![PyTorch](https://img.shields.io/badge/-PyTorch-d6522d?logo=pytorch&logoColor=fff)
 
 ### GitHub Trophies 🏆
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img  src="https://github-profile-trophy.vercel.app/?username=pktensor&theme=gruvbox" />
-  </a>
+
+<a href="https://github.com/pktensor/github-profile-trophy" target="_blank">
+  <img  src="https://github-profile-trophy.vercel.app/?username=pktensor&theme=gruvbox" />
+</a>
   
- <div>
-<a href="https://github.com/pktensor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pktensor&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/Vi1234sh12">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pktensor&show_icons=true&line_height=35&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Pktensor's GitHub Stats" />
-</a>
- </div>
+<div>
+  <a href="https://github.com/pktensor">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pktensor&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  </a>
+  <a href="https://github.com/Vi1234sh12">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=pktensor&show_icons=true&line_height=35&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Pktensor's GitHub Stats" />
+  </a>
+</div>
  
 <!--Thanks for stopping by! I'm Pratik, currently living in <b>Bangalore, India</b>. I am passionate about Data Science and I learn every day in this exciting, ever-changing field.-->
 
